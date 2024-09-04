@@ -1,0 +1,17 @@
+{
+  "name": "testing_out_analog",
+  "version": "1.0.0",
+  "description": "copy this template rename the folder to your name and write your instructions here so we can thank you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "analog": "^0.2.3",
+    "create-analog": "^1.6.4"
+  },
+  "devDependencies": {}
+}
